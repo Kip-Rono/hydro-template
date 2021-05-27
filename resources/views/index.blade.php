@@ -8,12 +8,12 @@
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
       <div class="row justify-content-center">
         <div class="col-xl-7 col-lg-9 text-center">
-          <h1>Diversifying, developing myself as I grow my helicopter view. </h1>
-          <h2>To prepare myself in taking up General Management positions in East Africa.</h2>
+          <h1>The role of most leaders is to get the people to think more of the leader.</h1>
+          <h2>But the role of the exceptional leader is to get the people to think more of themselves</h2>
         </div>
       </div>
       <div class="text-center">
-        <a href="#about" class="btn-get-started scrollto">Get Started</a>
+        <a href="#about" class="btn-get-started scrollto">Get to know me</a>
       </div>
       <hr>
       <!-- <div class="section-title">
@@ -75,20 +75,21 @@
         <div class="row content">
           <div class="col-lg-6">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+            Dynamic and motivated professional with a proven record of generating and building relationships, 
+            managing projects from concept to completion, designing educational strategies, and coaching individuals to 
+            success. Skilled in building cross-functional teams, demonstrating exceptional communication skills, and 
+            making critical decisions during challenges. Adaptable and transformational leader with an ability to work, 
+            creating effective presentations, and developing opportunities that further establish organizational goals.
             </p>
             <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+              <li><i class="ri-check-double-line"></i> Skilled at delegating tasks</li>
+              <li><i class="ri-check-double-line"></i> High EQ (emotional intelligence)</li>
+              <li><i class="ri-check-double-line"></i> Capitalizing on the strengths of team members</li>
             </ul>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum.
+            Dependable and organized team player with the ability to communicate effectively and efficiently. Skilled at building relationships with employees across all levels of an organization. Proficient with HRIS, applicant tracking and benefits management.
             </p>
             <a href="#" class="btn-learn-more">Learn More</a>
           </div>
@@ -105,14 +106,14 @@
 
           <div class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
             <div class="count-box">
-              <span data-toggle="counter-up">65</span>
+              <span data-toggle="counter-up">43</span>
               <p>Happy Clients</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
             <div class="count-box">
-              <span data-toggle="counter-up">85</span>
+              <span data-toggle="counter-up">17</span>
               <p>Projects</p>
             </div>
           </div>
@@ -126,7 +127,7 @@
 
           <div class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
             <div class="count-box">
-              <span data-toggle="counter-up">15</span>
+              <span data-toggle="counter-up">8</span>
               <p>Awards</p>
             </div>
           </div>
@@ -172,7 +173,7 @@
     </section><!-- End About Video Section -->
 
     <!-- ======= Clients Section ======= -->
-    <section id="clients" class="clients section-bg">
+    <!-- <section id="clients" class="clients section-bg">
       <div class="container">
 
         <div class="row">
@@ -204,7 +205,8 @@
         </div>
 
       </div>
-    </section><!-- End Clients Section -->
+    </section> -->
+    <!-- End Clients Section -->
 
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials">
@@ -212,7 +214,7 @@
 
         <div class="section-title">
           <h2>Testimonials</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>A leader is a reflection, a mirror, mirroing the idiology of the people that choose him. An ambassador and a face to those whom he represents. What are people saying about me</p>
         </div>
 
         <div class="owl-carousel testimonials-carousel">
@@ -220,7 +222,7 @@
           <div class="testimonial-item">
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+              Leaders instill in their people a hope for success and a belief in themselves. Positive leaders empower people to accomplish their goals.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
             <img src="/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
@@ -231,7 +233,7 @@
           <div class="testimonial-item">
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+              The single biggest way to impact an organization is to focus on leadership development. There is almost no limit to the potential of an organization that recruits good people, raises them up as leaders and continually develops them.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
             <img src="/assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
@@ -242,7 +244,7 @@
           <div class="testimonial-item">
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+              The pessimist complains about the wind. The optimist expects it to change. The leader adjusts the sails.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
             <img src="/assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
@@ -253,7 +255,7 @@
           <div class="testimonial-item">
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+              The very essence of leadership is that you have to have vision. You can't blow an uncertain trumpet.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
             <img src="/assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
@@ -264,7 +266,7 @@
           <div class="testimonial-item">
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+              If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
             <img src="/assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
@@ -282,8 +284,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Sevices</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Projects</h2>
+          <p>Social Development is a project that’s much bigger than any one of us. It’s bigger than any one person, any one president, and any one government. It’s a job for all of us..</p>
         </div>
 
         <div class="row">
@@ -295,8 +297,8 @@
                 </svg>
                 <i class="bx bxl-dribbble"></i>
               </div>
-              <h4><a href="">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4><a href="">Hatch Analyzer</a></h4>
+              <p>EZ7621 Total Nitrogen + Total Phosphorus Analyzer, 1 stream, 2x mA output</p>
             </div>
           </div>
 
@@ -308,8 +310,8 @@
                 </svg>
                 <i class="bx bx-file"></i>
               </div>
-              <h4><a href="">Sed Perspiciatis</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4><a href="">Nitratax sc</a></h4>
+              <p>Suited for sludge. Our Nitratax sc family features digital, optical probes for the high precision determination of nitrate concentration directly in the medium. The low maintenance, reagent-free optical probes offer a broad application spectrum</p>
             </div>
           </div>
 
@@ -321,8 +323,8 @@
                 </svg>
                 <i class="bx bx-tachometer"></i>
               </div>
-              <h4><a href="">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4><a href="">Portable Electrochemical Analysis</a></h4>
+              <p>A lack of confidence in calibration, data management, and instrument usability can be challenging, time-consuming, and frustrating.</p>
             </div>
           </div>
 
@@ -334,8 +336,8 @@
                 </svg>
                 <i class="bx bx-layer"></i>
               </div>
-              <h4><a href="">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <h4><a href="">LightDeck MC+CYN Panel</a></h4>
+              <p>Harmful Algal Blooms have become more frequent and intense over the past few decades.Hach has partnered with LightDeck Diagnostics to sell the LightDeck MC+CYN Panel, which simultaneously detects two of the most common toxins generated by Harmful Algal Blooms: microcystins (MC) and cylindrospermopsins (CYN). </p>
             </div>
           </div>
 
@@ -347,8 +349,8 @@
                 </svg>
                 <i class="bx bx-slideshow"></i>
               </div>
-              <h4><a href="">Dele Cardo</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+              <h4><a href="">Total organic carbon (TOC) Monitoring</a></h4>
+              <p>contamination? Watch this on-demand webinar with Hach expert Randy Fuller to learn best practices in organics monitoring. Register here: http://ow.ly/cyMo30rF2BF</p>
             </div>
           </div>
 
@@ -360,8 +362,8 @@
                 </svg>
                 <i class="bx bx-arch"></i>
               </div>
-              <h4><a href="">Divera Don</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+              <h4><a href=""> HQ™ Series meters</a></h4>
+              <p>The new HQ™ Series meters from Hach® have improved functionality and performance and include a wide range of models offering 1, 2, and 3 inputs. Learn more in our virtual training on May 24</p>
             </div>
           </div>
 
@@ -375,14 +377,14 @@
       <div class="container" data-aos="zoom-in">
         <div class="text-center">
           <h3>Call To Action</h3>
-          <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <p> Encouragement is not something we can do once and forget about. It should be part of our regular routine—as much a part of our workday as completing tasks, preparing for meetings, interacting with clients, or returning phone calls and emails…only think of how much more fun it can be!</p>
           <a class="cta-btn" href="#">Call To Action</a>
         </div>
       </div>
     </section><!-- End Cta Section -->
 
     <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio">
+    <!-- <section id="portfolio" class="portfolio">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -532,10 +534,11 @@
         </div>
 
       </div>
-    </section><!-- End Portfolio Section -->
+    </section> -->
+    <!-- End Portfolio Section -->
 
     <!-- ======= Team Section ======= -->
-    <section id="team" class="team section-bg">
+    <!-- <section id="team" class="team section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -620,10 +623,11 @@
         </div>
 
       </div>
-    </section><!-- End Team Section -->
+    </section> -->
+    <!-- End Team Section -->
 
     <!-- ======= Pricing Section ======= -->
-    <section id="pricing" class="pricing">
+    <!-- <section id="pricing" class="pricing">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -687,60 +691,61 @@
         </div>
 
       </div>
-    </section><!-- End Pricing Section -->
+    </section> -->
+    <!-- End Pricing Section -->
 
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Frequently Asked Questions</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>A Pick Through My Mind</h2>
+          <p>“Leadership is having a compelling vision, a comprehensive plan, relentless implementation, and talented people working together.”</p>
         </div>
 
         <div class="faq-list">
           <ul>
             <li data-aos="fade-up">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" class="collapse" href="#faq-list-1">Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" class="collapse" href="#faq-list-1">My take on leadership and vision? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-1" class="collapse show" data-parent=".faq-list">
                 <p>
-                  Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                True leaders have a vision, that is, they have a potential to view the present as it is and to invent a future culminating out of the present. A leader with a vision can foresee the future and can remain in the present. A vision is an end towards which leader can spend and direct his energy and resources. Leaders share a dream and a path which the employees want to share and follow. Leadership vision is not restricted to organizational written mission statement and vision statement. It is well demonstrated in the actions, beliefs and values of organizational leaders.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-2" class="collapsed">Feugiat scelerisque varius morbi enim nunc? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-2" class="collapsed">My take on inclusion? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-2" class="collapse" data-parent=".faq-list">
                 <p>
-                  Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                The capacity to manage and lead a heterogeneous group of people efficiently, while respecting their uniqueness in an empathetic, bias-free way. It’s an authentic leadership style that rules out discrimination, bias and favor based on color, race and other protected characteristics and allows employees to feel valued for their own input.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="200">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-3" class="collapsed">Dolor sit amet consectetur adipiscing elit? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-3" class="collapsed">Aspire and resolve to become, not to acquire! <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-3" class="collapse" data-parent=".faq-list">
                 <p>
-                  Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                We work to become, not to acquire is a quote that holds very true. There are many people who might disagree with this, but their lives will never be as complete and fulfilling as they could be. Reasons people might feel they should work include money, possessions, and power. All of these acquired things will get a person nothing, deep down in the end.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="300">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-4" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-4" class="collapsed">Failure doesn't mean you are a failure it just means you haven't succeeded yet!<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-4" class="collapse" data-parent=".faq-list">
                 <p>
-                  Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in.
+                What could you accomplish if you knew you couldn't fail at the task at hand? This question is asked frequently in self-help and motivational workshops and seminars, and I have to wonder how many people have ever truly felt the empowerment and freedom that understanding the answer to this question creates. The reason for this, I believe, is simple. We live in a society that focuses on the negative and as a result of this, we tend to let our failures (or perceived failures) stand out stronger and taller than our successes. This is unfortunate, because it completely negates the power of averages.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="400">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-5" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-5" class="collapsed">Don’t Let Yesterday Take Up Too Much Of Today. <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-5" class="collapse" data-parent=".faq-list">
                 <p>
-                  Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque.
+                Bad days are bound to happen to everyone. You could be having the best week of your life, only to have some calamity smack you right in the forehead. But is this the end-all and be-all? Probably not. If you wake up the next day and the sun has risen, chances are you will be just fine. Work to fix whatever problems you may have encountered, but don’t let them take a central role in your life. 
                 </p>
               </div>
             </li>
@@ -761,8 +766,7 @@
         </div>
 
         <div>
-          <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
-        </div>
+          <iframe style="border:0; width: 100%; height: 270px;" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=koinange%20street%20nairobi%20Nairobi+()&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></div>
 
         <div class="row mt-5">
 
@@ -771,19 +775,19 @@
               <div class="address">
                 <i class="icofont-google-map"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>Koinange Street, Nairobi, NB 535022</p>
               </div>
 
               <div class="email">
                 <i class="icofont-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>info@rogerobare.com</p>
               </div>
 
               <div class="phone">
                 <i class="icofont-phone"></i>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <p>+254 72100000</p>
               </div>
 
             </div>
