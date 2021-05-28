@@ -99,7 +99,7 @@
           </div>
 
           <div class="col-lg-5 col-md-6 footer-links">
-          <a class="twitter-timeline" data-width="300" data-height="350" data-theme="light" href="https://twitter.com/Benny_Trap?ref_src=twsrc%5Etfw">Tweets by Benny_Trap</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          <a class="twitter-timeline" data-width="350" data-height="400" href="https://twitter.com/RogerObare?ref_src=twsrc%5Etfw">Tweets by RogerObare</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
           </div>
 
         
@@ -123,10 +123,7 @@
           &copy; Copyright <strong><span>Roger Obare</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
-          <!-- All the links in the footer should remain intact. -->
-          <!-- You can delete the links only if you purchased the pro version. -->
-          <!-- Licensing information: https://bootstrapmade.com/license/ -->
-          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/ -->
+          <
           Designed by <a href="">Clean Soft</a>
         </div>
       </div>

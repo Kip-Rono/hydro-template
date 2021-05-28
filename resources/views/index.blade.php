@@ -138,7 +138,7 @@
     </section><!-- End Counts Section -->
 
     <!-- ======= About Video Section ======= -->
-    <section id="about-video" class="about-video">
+    <!-- <section id="about-video" class="about-video">
       <div class="container" data-aos="fade-up">
 
         <div class="row">
@@ -170,7 +170,8 @@
         </div>
 
       </div>
-    </section><!-- End About Video Section -->
+    </section> -->
+    <!-- End About Video Section -->
 
     <!-- ======= Clients Section ======= -->
     <!-- <section id="clients" class="clients section-bg">
@@ -225,7 +226,7 @@
               Leaders instill in their people a hope for success and a belief in themselves. Positive leaders empower people to accomplish their goals.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+            <img src="" class="testimonial-img" alt="">
             <h3>Saul Goodman</h3>
             <h4>Ceo &amp; Founder</h4>
           </div>
@@ -236,7 +237,7 @@
               The single biggest way to impact an organization is to focus on leadership development. There is almost no limit to the potential of an organization that recruits good people, raises them up as leaders and continually develops them.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="/assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+            <img src="" class="testimonial-img" alt="">
             <h3>Sara Wilsson</h3>
             <h4>Designer</h4>
           </div>
@@ -247,7 +248,7 @@
               The pessimist complains about the wind. The optimist expects it to change. The leader adjusts the sails.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="/assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+            <img src="" class="testimonial-img" alt="">
             <h3>Jena Karlis</h3>
             <h4>Store Owner</h4>
           </div>
@@ -258,7 +259,7 @@
               The very essence of leadership is that you have to have vision. You can't blow an uncertain trumpet.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="/assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+            <img src="" class="testimonial-img" alt="">
             <h3>Matt Brandon</h3>
             <h4>Freelancer</h4>
           </div>
@@ -269,7 +270,7 @@
               If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="/assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+            <img src="" class="testimonial-img" alt="">
             <h3>John Larson</h3>
             <h4>Entrepreneur</h4>
           </div>
