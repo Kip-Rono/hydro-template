@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" href="img/xfav-icon.png.pagespeed.ic.K-SMDQdOe7.png" type="image/x-icon">
 
-<title>Roger Obare</title>
+<title>Hydro Water</title>
 
 <link href="A.css,,_font-awesome.min.css css,,_bootstrap.min.css vendors,,_revolution,,_css,,_settings.css vendors,,_revolution,,_css,,_layers.css vendors,,_revolution,,_css,,_navigation.css vendors,,_owl-car.css" rel="stylesheet">
 
